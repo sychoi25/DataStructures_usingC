@@ -1,0 +1,3 @@
+Passing parameters to functions:
+- Call by Value : copying / chages are not applied
+- Call by Variable : * / chages are applied
